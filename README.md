@@ -118,10 +118,3 @@ Performed an audit and implemented hardening recommendations for a municipal/tra
 
 ---
 
-## TryHackMe (optional)
-To add a TryHackMe progress badge, replace `YOUR_THM_USERNAME` in the URL below with your actual TryHackMe username and paste the image tag into this README where you want it displayed.
-
-```md
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe progress" />
-</p>
