@@ -1,139 +1,143 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Lakshana%20K&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=Cybersecurity%20Enthusiast%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" alt="Lakshana K Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Lakshana%20K&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=Cybersecurity%20Engineer%20%7C%20Automation%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" alt="Lakshana K Banner" />
 </p>
 
 ---
 
 ## About Me
 
-- I am Lakshana K, a cybersecurity-focused software developer with a passion for ethical hacking, CTFs, and secure system design.
-- I build tools that detect vulnerabilities and help teams harden their software.
-- I combine hands-on pentesting with secure development and cryptography research.
-- Current focus: improving practical pentesting workflows, post-quantum cryptography experiments, and automation for security tooling.
+I am **Lakshana K**, a cybersecurity-focused software developer with strong experience in **security automation, AI-driven workflows, and pentesting tooling**.  
+I enjoy building systems that **reduce manual effort**, **improve security visibility**, and **scale reliably** using automation.
+
+My work sits at the intersection of:
+- Cybersecurity & ethical hacking
+- AI-assisted analysis
+- Workflow automation (n8n)
+- Secure backend and data handling
 
 ---
 
 ## Current Work
 
-- Web Pentest Interface: a web tool that accepts a URL, runs automated reconnaissance, and reports likely vulnerabilities (header analysis, injection checks, misconfiguration scans).
-- Improving CTF solving methodology and automation scripts.
-- Prototyping secure messaging using Post-Quantum Cryptography.
-- Strengthening RDBMS security and backend hardening practices.
+- **Security Automation using n8n**  
+  Designing event-driven workflows for data ingestion, AI inference, classification, validation, and reporting.
+
+- **AI-powered Security & Analysis Pipelines**  
+  Building automation that integrates **LLMs (Gemini, HuggingFace)** for classification, review, and decision-making.
+
+- **Web Pentest Automation**  
+  Developing tools that automate reconnaissance, header analysis, misconfiguration detection, and vulnerability triage.
+
+- **Secure Data Pipelines**  
+  Automating validated file ingestion and structured data updates into databases such as **Snowflake**.
+
+- **CTF & Reverse Engineering Practice**  
+  Improving exploit methodology, binary analysis, and workflow efficiency using Ghidra and scripting.
 
 ---
 
 ## Interests
 
-- Post-Quantum Cryptography (PQC)  
-- Cybersecurity and Ethical Hacking  
-- Pentesting and Security Automation  
-- Capture The Flag (CTF) competitions  
-- Secure Software Architecture  
-- Data Structures, Algorithms, and Problem Solving
+- Cybersecurity Automation  
+- Ethical Hacking & Pentesting  
+- AI-assisted Security Analysis  
+- Workflow Orchestration (n8n)  
+- Capture The Flag (CTF) Competitions  
+- Secure System Design & Architecture  
+- Post-Quantum Cryptography (Exploratory)
 
 ---
 
 ## Currently Learning
 
-- Advanced pentesting and exploitation techniques  
-- PQC key exchange and integrations  
-- MySQL secure schema design and performance tuning  
-- Automation for reconnaissance and scanning  
-- Efficient CTF solving strategies and tooling
+- Advanced web and API pentesting techniques  
+- Secure automation design patterns  
+- AI model integration into production workflows  
+- File ingestion security & data validation strategies  
+- Reverse engineering and binary exploitation  
+- Writing resilient, observable automation pipelines  
 
 ---
 
 ## Tech Stack & Tools
 
-| Category               | Tools & Languages |
-|-----------------------:|-------------------|
+| Category               | Tools & Technologies |
+|-----------------------:|---------------------|
 | Programming            | Python · Java · C |
-| Databases              | MySQL · MongoDB   |
-| Version Control        | Git               |
-| Automation             | n8n (workflows, cron jobs, webhooks) |
-| Pentesting / Security  | Burp Suite Professional (THM license) · Ghidra · CTF toolset / commands |
-| Other                  | Web Pentest Automation · AI Pipelines · DSA / Problem Solving |
+| Automation             | n8n (cron jobs, webhooks, conditional workflows) |
+| AI / ML                | Gemini · HuggingFace Inference |
+| Databases              | MySQL · MongoDB · Snowflake |
+| Version Control        | Git |
+| Pentesting / Security  | Burp Suite Professional (THM) · Ghidra · CTF tools |
+| Other                  | Web Pentest Automation · Secure Data Pipelines |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%23007ACC.svg?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-007ACC?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-6DB33F?logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
 </p>
 
 ---
 
 ## Automation Experience (n8n)
 
-I design and maintain **event-driven, secure automation workflows using n8n**, integrating APIs, databases, AI models, and scheduled jobs. My automations emphasize **validation, reliability, and security-aware data handling**.
+I design **secure, production-style automation workflows** using n8n, combining APIs, AI inference, and database operations with validation and error handling.
 
-### n8n Automation Projects
+### Key Automation Projects
 
 - **YouTube Topic → Top 3 Video Fetcher (Project 10)**  
-  Automated pipeline that accepts a topic, fetches YouTube data via API, ranks results, and outputs the top 3 relevant videos.
+  Topic-based API pipeline that fetches, ranks, and outputs the most relevant videos for content analysis.
 
 - **Techathon Workflow Automation (Project 18)**  
-  End-to-end workflow orchestration handling inputs, validations, conditional branching, and structured outputs.
+  Multi-step orchestration workflow handling inputs, validation, branching logic, and final outputs.
 
 - **AI Complaint Classifier (Project 41)**  
-  Automation using HuggingFace models for text preprocessing, inference, and classification to support issue triage systems.
+  HuggingFace-powered automation for complaint classification and issue triage.
 
 - **Secure File Ingestion into Snowflake (Project 42)**  
-  Controlled ingestion pipeline with file validation, preprocessing, error handling, and secure persistence into Snowflake.
+  Validated and controlled file ingestion pipeline with preprocessing and error handling.
 
-- **AI-Powered Message Reviewer (Project 46)**  
-  AI-driven automation for message analysis and review, suitable for moderation, compliance, and internal screening.
+- **AI-powered Message Reviewer (Project 46)**  
+  Automated message analysis workflow using AI for moderation and review use cases.
 
-### Automation Capabilities
-
-- Cron-based and event-driven triggers  
-- REST API orchestration & webhooks  
-- AI / LLM integration (Gemini, HuggingFace)  
-- Secure file handling and database ingestion  
-- JSON / CSV processing and validation  
-- Error handling, logging, and workflow resilience  
-
-> Note: Workflow JSONs are intentionally not public due to security considerations and API key safety.
+> Workflow JSONs are not public to avoid exposing API keys and security-sensitive logic.
 
 ---
 
 ## Highlight Projects
 
 ### Web Pentest Interface
-A web application that automates reconnaissance and runs a suite of basic checks to identify likely issues: header analysis, fingerprinting, injection patterns, and misconfiguration detection. Built for quick triage and learning.
+Automated web reconnaissance and vulnerability triage tool performing header checks, fingerprinting, injection pattern detection, and misconfiguration analysis.
+
+### Secure Messaging Prototype (Post-Quantum Cryptography)
+Experimental secure messaging system exploring PQC-based key exchange and encrypted communication.
 
 ### Deepfake Detection System
-A machine learning prototype focused on identifying manipulated media with emphasis on explainability and inference speed.
-
-### Secure Messaging App with Post-Quantum Cryptography
-A prototype implementing PQC primitives for key exchange and secure message delivery to explore future-proof secure communication.
-
-### Secured KMRL Website
-Performed an audit and implemented hardening recommendations for a municipal/transport website, including verification and deployment guidance.
+AI prototype focused on detecting manipulated media with attention to explainability and inference efficiency.
 
 ---
 
 ## Experience & Achievements
 
-- Internship: Codsoft — worked on secure features and internal tooling.  
-- Participated in multiple hackathons and CTFs with notable placements.  
-- TryHackMe: completed 8 rooms and earned 3 badges.  
-- TryHackMe Title: **[0x3] PATHFINDER**.  
-- Licensed access to Burp Suite Professional via THM for advanced auditing.
+- **Internship:** Codsoft — worked on secure features, automation, and internal tooling  
+- Participated in multiple **CTFs and hackathons**  
+- TryHackMe: completed **8 rooms**, earned **3 badges**  
+- TryHackMe Rank Title: **[0x3] PATHFINDER**  
+- Licensed access to **Burp Suite Professional** via THM
 
 ---
 
 ## How I Work
 
-- Combine automation and manual verification to maximize the accuracy of security findings.  
-- Deliver reproducible proof-of-concepts, remediation steps, and recommended configuration/code changes.  
-- Adopt a “secure by design” mindset: assume breach, enforce least privilege, and document fixes clearly.
+- Automate first, verify manually where it matters  
+- Design workflows with validation, logging, and failure handling  
+- Focus on security impact, not just tool output  
+- Document findings and fixes clearly for reproducibility  
 
 ---
 
