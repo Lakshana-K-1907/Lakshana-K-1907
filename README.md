@@ -1,76 +1,71 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Lakshana%20K&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=Cybersecurity%20Engineer%20%7C%20Automation%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" alt="Lakshana K Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Lakshana%20K&fontAlign=50&fontAlignY=35&fontColor=FFFFFF&desc=Cybersecurity%20%7C%20Automation%20Engineering%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" alt="Lakshana K Banner" />
 </p>
 
 ---
 
 ## About Me
 
-I am **Lakshana K**, a cybersecurity-focused software developer with strong experience in **security automation, AI-driven workflows, and pentesting tooling**.  
-I enjoy building systems that **reduce manual effort**, **improve security visibility**, and **scale reliably** using automation.
+I am **Lakshana K**, a cybersecurity-focused software developer with hands-on experience in  
+**automation engineering, security tooling, and AI-integrated workflows**.
 
-My work sits at the intersection of:
-- Cybersecurity & ethical hacking
-- AI-assisted analysis
-- Workflow automation (n8n)
-- Secure backend and data handling
+I specialize in building **secure, scalable automation pipelines** that reduce manual effort and improve operational visibility, especially in **security, data ingestion, and AI-driven analysis** use cases.
 
 ---
 
 ## Current Work
 
-- **Security Automation using n8n**  
-  Designing event-driven workflows for data ingestion, AI inference, classification, validation, and reporting.
+- **Security & Automation Engineering using n8n**  
+  Designing real-world workflows with validation, branching logic, error handling, and logging.
 
-- **AI-powered Security & Analysis Pipelines**  
-  Building automation that integrates **LLMs (Gemini, HuggingFace)** for classification, review, and decision-making.
+- **AI-integrated Automation Pipelines**  
+  Building classification, content analysis, and review systems using **Hugging Face models** and LLM-based logic.
 
-- **Web Pentest Automation**  
-  Developing tools that automate reconnaissance, header analysis, misconfiguration detection, and vulnerability triage.
+- **Web Pentesting Tooling**  
+  Developing automated reconnaissance and vulnerability triage tools for URLs and web applications.
 
 - **Secure Data Pipelines**  
-  Automating validated file ingestion and structured data updates into databases such as **Snowflake**.
+  Automating CSV ingestion, schema detection, and controlled database updates (Snowflake, Supabase).
 
 - **CTF & Reverse Engineering Practice**  
-  Improving exploit methodology, binary analysis, and workflow efficiency using Ghidra and scripting.
+  Strengthening binary analysis, exploitation methodology, and workflow efficiency using Ghidra and scripting.
 
 ---
 
 ## Interests
 
-- Cybersecurity Automation  
-- Ethical Hacking & Pentesting  
-- AI-assisted Security Analysis  
-- Workflow Orchestration (n8n)  
+- Cybersecurity & Ethical Hacking  
+- Security Automation & Orchestration  
+- AI-assisted Analysis Pipelines  
 - Capture The Flag (CTF) Competitions  
-- Secure System Design & Architecture  
-- Post-Quantum Cryptography (Exploratory)
+- Secure Backend & Data Engineering  
+- Reverse Engineering & Exploit Development  
 
 ---
 
 ## Currently Learning
 
-- Advanced web and API pentesting techniques  
-- Secure automation design patterns  
+- Advanced web & API penetration testing  
+- Secure automation architecture patterns  
 - AI model integration into production workflows  
-- File ingestion security & data validation strategies  
+- Database ingestion security & validation strategies  
 - Reverse engineering and binary exploitation  
-- Writing resilient, observable automation pipelines  
+- Building resilient, observable automation systems  
 
 ---
 
 ## Tech Stack & Tools
 
-| Category               | Tools & Technologies |
-|-----------------------:|---------------------|
-| Programming            | Python · Java · C |
-| Automation             | n8n (cron jobs, webhooks, conditional workflows) |
-| AI / ML                | Gemini · HuggingFace Inference |
-| Databases              | MySQL · MongoDB · Snowflake |
-| Version Control        | Git |
-| Pentesting / Security  | Burp Suite Professional (THM) · Ghidra · CTF tools |
-| Other                  | Web Pentest Automation · Secure Data Pipelines |
+| Category | Technologies |
+|--------:|-------------|
+| **Programming** | Python · Java · C · SQL |
+| **Automation** | n8n (workflow orchestration, cron jobs, webhooks, error handling) |
+| **AI / ML** | Hugging Face Inference · LLM-based classification |
+| **Databases** | Supabase (PostgreSQL) · Snowflake · Airtable · MySQL · MongoDB (Basics) |
+| **Cybersecurity** | Penetration Testing · Burp Suite · Ghidra · Vulnerability Assessment · CTFs |
+| **Dev Tools** | Git · GitHub · VS Code |
+| **Platforms** | TryHackMe (8 rooms, 3 badges) |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -78,6 +73,7 @@ My work sits at the intersection of:
   <img src="https://img.shields.io/badge/C-007ACC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghidra-6DB33F?logo=ghidra&logoColor=white" />
 </p>
@@ -86,49 +82,69 @@ My work sits at the intersection of:
 
 ## Automation Experience (n8n)
 
-I design **secure, production-style automation workflows** using n8n, combining APIs, AI inference, and database operations with validation and error handling.
+I design and maintain **production-style automation workflows** using n8n, integrating APIs, databases, and AI models with strong emphasis on **validation, reliability, and security**.
 
 ### Key Automation Projects
 
-- **YouTube Topic → Top 3 Video Fetcher (Project 10)**  
-  Topic-based API pipeline that fetches, ranks, and outputs the most relevant videos for content analysis.
+- **Topic-to-Top3 YouTube Content Analyzer**  
+  Automated extraction and ranking of high-performing content ideas using APIs and NLP logic.
 
-- **Techathon Workflow Automation (Project 18)**  
-  Multi-step orchestration workflow handling inputs, validation, branching logic, and final outputs.
+- **Techathon Workflow Automation**  
+  Multi-step workflow orchestration handling inputs, validation, branching, and final outputs.
 
-- **AI Complaint Classifier (Project 41)**  
-  HuggingFace-powered automation for complaint classification and issue triage.
+- **AI Complaint Classifier**  
+  Hugging Face–powered automation for classifying customer complaints into actionable categories.
 
-- **Secure File Ingestion into Snowflake (Project 42)**  
-  Validated and controlled file ingestion pipeline with preprocessing and error handling.
+- **Secure CSV File Ingestion into Snowflake**  
+  Automated ingestion of unclean CSV files with schema detection, validation, and controlled persistence.
 
-- **AI-powered Message Reviewer (Project 46)**  
-  Automated message analysis workflow using AI for moderation and review use cases.
+- **AI-powered Message Reviewer**  
+  Automated message analysis workflow for review, moderation, and internal screening.
 
-> Workflow JSONs are not public to avoid exposing API keys and security-sensitive logic.
+> Workflow JSONs are intentionally not public to avoid exposing sensitive logic and API keys.
+
+---
+
+## Internship Experience
+
+### Automation Engineering Intern  
+**DoorBox.ai (USA) — Remote**  
+**Dec 2025**
+
+- Built **20+ real-world automation workflows** using n8n for enterprise use cases  
+- Integrated **Supabase (PostgreSQL), Snowflake, and Airtable** for secure data storage and analytics  
+- Developed **dynamic CSV ingestion pipelines** with schema detection and automated Snowflake table creation  
+- Implemented **AI-powered workflows** using Hugging Face models for classification and content generation  
+- Focused on reliability, validation, and scalable automation design  
 
 ---
 
 ## Highlight Projects
 
-### Web Pentest Interface
-Automated web reconnaissance and vulnerability triage tool performing header checks, fingerprinting, injection pattern detection, and misconfiguration analysis.
+### Web Pentesting Interface
+Automated web scanner that analyzes target URLs for headers, fingerprinting, injection patterns, and misconfigurations.
 
 ### Secure Messaging Prototype (Post-Quantum Cryptography)
-Experimental secure messaging system exploring PQC-based key exchange and encrypted communication.
+Experimental system exploring PQC-based key exchange and encrypted communication.
 
 ### Deepfake Detection System
 AI prototype focused on detecting manipulated media with attention to explainability and inference efficiency.
 
 ---
 
-## Experience & Achievements
+## Achievements & Activities
 
-- **Internship:** Codsoft — worked on secure features, automation, and internal tooling  
-- Participated in multiple **CTFs and hackathons**  
-- TryHackMe: completed **8 rooms**, earned **3 badges**  
-- TryHackMe Rank Title: **[0x3] PATHFINDER**  
-- Licensed access to **Burp Suite Professional** via THM
+- Solved **100+ DSA problems** on LeetCode  
+- **Top 10 performer** — WiCyS 30-Day CTF Challenge  
+- Participated in **10+ CTFs** (Phantom 2.0, Cyscom CTF – VIT)  
+- **CTF Challenge Creator** — *“Ghost in the Machine”* (InnovIT Symposium)
+
+---
+
+## Leadership
+
+- Led multiple **hackathon and CTF teams** (Smartathon, Makeathon, Ideathon, Vizfest, SIH Internal)  
+- Responsible for design decisions, development strategy, and technical execution  
 
 ---
 
@@ -137,7 +153,7 @@ AI prototype focused on detecting manipulated media with attention to explainabi
 - Automate first, verify manually where it matters  
 - Design workflows with validation, logging, and failure handling  
 - Focus on security impact, not just tool output  
-- Document findings and fixes clearly for reproducibility  
+- Deliver reproducible results with clear documentation  
 
 ---
 
