@@ -134,19 +134,14 @@ AI prototype focused on detecting manipulated media with attention to explainabi
 
 ## Achievements & Activities
 
-- Solved **100+ DSA problems** on LeetCode  
-- **Top 10 performer** — WiCyS 30-Day CTF Challenge  
-- Participated in **10+ CTFs** (Phantom 2.0, Cyscom CTF – VIT)  
+- Participated in multiple **CTFs and hackathons**  
+- TryHackMe: completed **8 rooms**, earned **3 badges**  
+- TryHackMe Rank Title: **[0x3] PATHFINDER**  
 - **CTF Challenge Creator** — *“Ghost in the Machine”* (InnovIT Symposium)
 
 ---
 
-## Leadership
 
-- Led multiple **hackathon and CTF teams** (Smartathon, Makeathon, Ideathon, Vizfest, SIH Internal)  
-- Responsible for design decisions, development strategy, and technical execution  
-
----
 
 ## How I Work
 
