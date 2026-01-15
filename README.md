@@ -51,19 +51,55 @@
 | Programming            | Python · Java · C |
 | Databases              | MySQL · MongoDB   |
 | Version Control        | Git               |
+| Automation             | n8n (workflows, cron jobs, webhooks) |
 | Pentesting / Security  | Burp Suite Professional (THM license) · Ghidra · CTF toolset / commands |
-| Other                  | Web Pentest Automation · DSA / Problem Solving |
+| Other                  | Web Pentest Automation · AI Pipelines · DSA / Problem Solving |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-%23007ACC.svg?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Ghidra-6DB33F?logo=ghidra&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%23007ACC.svg?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-6DB33F?logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" />
 </p>
+
+---
+
+## Automation Experience (n8n)
+
+I design and maintain **event-driven, secure automation workflows using n8n**, integrating APIs, databases, AI models, and scheduled jobs. My automations emphasize **validation, reliability, and security-aware data handling**.
+
+### n8n Automation Projects
+
+- **YouTube Topic → Top 3 Video Fetcher (Project 10)**  
+  Automated pipeline that accepts a topic, fetches YouTube data via API, ranks results, and outputs the top 3 relevant videos.
+
+- **Techathon Workflow Automation (Project 18)**  
+  End-to-end workflow orchestration handling inputs, validations, conditional branching, and structured outputs.
+
+- **AI Complaint Classifier (Project 41)**  
+  Automation using HuggingFace models for text preprocessing, inference, and classification to support issue triage systems.
+
+- **Secure File Ingestion into Snowflake (Project 42)**  
+  Controlled ingestion pipeline with file validation, preprocessing, error handling, and secure persistence into Snowflake.
+
+- **AI-Powered Message Reviewer (Project 46)**  
+  AI-driven automation for message analysis and review, suitable for moderation, compliance, and internal screening.
+
+### Automation Capabilities
+
+- Cron-based and event-driven triggers  
+- REST API orchestration & webhooks  
+- AI / LLM integration (Gemini, HuggingFace)  
+- Secure file handling and database ingestion  
+- JSON / CSV processing and validation  
+- Error handling, logging, and workflow resilience  
+
+> Note: Workflow JSONs are intentionally not public due to security considerations and API key safety.
 
 ---
 
@@ -88,7 +124,7 @@ Performed an audit and implemented hardening recommendations for a municipal/tra
 - Internship: Codsoft — worked on secure features and internal tooling.  
 - Participated in multiple hackathons and CTFs with notable placements.  
 - TryHackMe: completed 8 rooms and earned 3 badges.  
-- TryHackMe Title: [0x3] PATHFINDER.  
+- TryHackMe Title: **[0x3] PATHFINDER**.  
 - Licensed access to Burp Suite Professional via THM for advanced auditing.
 
 ---
@@ -105,16 +141,15 @@ Performed an audit and implemented hardening recommendations for a municipal/tra
 
 <p align="center">
   <a href="https://github.com/Lakshana-K-1907">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lakshana-K-1907&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lakshana-K-1907&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Lakshana-K-1907">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshana-K-1907&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshana-K-1907&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshana-K-1907&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshana-K-1907&theme=radical&hide_border=true" />
 </p>
 
 ---
-
